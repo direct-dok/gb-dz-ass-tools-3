@@ -1,0 +1,10 @@
+node_modules/
+dist/
+src/audio/**
+src/video/**
+*.mp3
+*.mp4
+.idea/ 
+.vscode/ 
+*.sw*
+.env
